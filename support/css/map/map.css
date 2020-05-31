@@ -173,6 +173,7 @@ ul li {
 .map-bar span {
 	display: inline-block;
 	color: #444444;
+	margin-left: 5px;
 }
 
 .map-color-red-active {
