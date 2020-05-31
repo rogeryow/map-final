@@ -128,288 +128,267 @@
 
 									<div id="map-sidebar">
 										<div class="card map-card">
-											<div class="card-header">
-												<h3 class="card-title">Purok List</h3>
-											</div>
+<!-- 											<div class="card-header card-header-custom">
+
+													<span class="legend"><i class="fas fa-synagogue capital-icon"></i> <span class="place-title-2">Barangay</span></span> 
+
+													<span class="legend"><i class="fas fa-home purok-icon"></i> <span class="place-title-2">Purok</span></span> 
+													
+													<span class="legend"><i class="fas fa-square purok-icon"></i> <span class="place-title-2">Member</span></span> 
+													
+													<span class="legend"><i class="fas fa-square purok-icon non-member-icon"></i> <span class="place-title-2">Non-member</span></span> 
+								
+											</div> -->
 											<div class="card-body">
 												<div class="container-fluid">
-												<div class="map-purok">
-												<div class="row row-line">
-													<div class="col-sm-12 no-pad"><span class="purok-title">1 - Kapatagan</span></div>
-													<div class="col-sm-12 col-md-4">
-														<table class="table-map">
-															<thead>
-																<tr>
-																	<th colspan="3">Overall</th>
-																</tr>
-															</thead>
-															<tbody>
-																<tr>
-																	<td><span class="badge bg-danger map-badge">55%</span></td>
-																	<td><span>Red</span></td>
-																	<td><span>300</span></td>
-																</tr>
-																<tr>
-																	<td><span class="badge bg-warning map-badge">25%</span></td>
-																	<td><span>Yellow</span></td>
-																	<td><span>500</span></td>
-																</tr>
-																<tr>
-																	<td><span class="badge bg-success map-badge">15%</span></td>
-																	<td><span>Green</span></td>
-																	<td><span>400</span></td>
-																</tr>
-																<tr>
-																	<td><span class="badge bg-primary map-badge">45%</span></td>
-																	<td><span>Blue</span></td>
-																	<td><span>250</span></td>
-																</tr>
-															</tbody>
-														</table>
-													</div>
-													<div class="col-sm-12 col-md-4">
-														<table class="table-map">
-															<thead>
-																<tr>
-																	<th colspan="3">Members</th>
-																</tr>
-															</thead>
-															<tbody>
-																<tr>
-																	<td><span class="badge bg-danger map-badge">55%</span></td>
-																	<td><span>Red</span></td>
-																	<td><span>300</span></td>
-																</tr>
-																<tr>
-																	<td><span class="badge bg-warning map-badge">25%</span></td>
-																	<td><span>Yellow</span></td>
-																	<td><span>500</span></td>
-																</tr>
-																<tr>
-																	<td><span class="badge bg-success map-badge">15%</span></td>
-																	<td><span>Green</span></td>
-																	<td><span>400</span></td>
-																</tr>
-																<tr>
-																	<td><span class="badge bg-primary map-badge">45%</span></td>
-																	<td><span>Blue</span></td>
-																	<td><span>250</span></td>
-																</tr>
-															</tbody>
-														</table>
-													</div>
-													<div class="col-sm-12 col-md-4">
-														<table class="table-map">
-															<thead>
-																<tr>
-																	<th colspan="3">Non-members</th>
-																</tr>
-															</thead>
-															<tbody>
-																<tr>
-																	<td><span class="badge bg-danger map-badge">55%</span></td>
-																	<td><span>Red</span></td>
-																	<td><span>300</span></td>
-																</tr>
-																<tr>
-																	<td><span class="badge bg-warning map-badge">25%</span></td>
-																	<td><span>Yellow</span></td>
-																	<td><span>500</span></td>
-																</tr>
-																<tr>
-																	<td><span class="badge bg-success map-badge">15%</span></td>
-																	<td><span>Green</span></td>
-																	<td><span>400</span></td>
-																</tr>
-																<tr>
-																	<td><span class="badge bg-primary map-badge">45%</span></td>
-																	<td><span>Blue</span></td>
-																	<td><span>250</span></td>
-																</tr>
-															</tbody>
-														</table>
-													</div>
-												</div>
-												</div>
 
 												<div class="map-purok">
 												<div class="row row-line">
-													<div class="col-sm-12 no-pad"><span class="purok-title">2 - Davao</span></div>
-													<div class="col-sm-12 col-md-4">
+													<div class="col-sm-12 no-pad">
+														<p class="purok-title"><i class="fas fa-synagogue"></i> 
+															<span class="place-title">Kapatagan</span>
+														</p>
+														<p class="text-short text-secondary">Total Registered: 30,000</p>
+													
+													<div class="col-sm-12 col-md-12">
 														<table class="table-map">
-															<thead>
-																<tr>
-																	<th colspan="3">Overall</th>
-																</tr>
-															</thead>
 															<tbody>
 																<tr>
-																	<td colspan="3">
-																		<div class="progress-group">
-																			<b>10,000</b>
-																			<span class="float-right">80%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-danger" style="width: 80%"></div>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">8,300 <i class="fas fa-user total-icon"></i></span>
 																			</div>
+																			<div class="map-bar map-color-red-active" style="width: 65%"><span>5,200</span></div>
+																			<div class="map-bar map-color-red-inactive" style="width: 35%"><span>3,100</span></div>
 																		</div>
 																	</td>
 																</tr>
 																<tr>
 																	<td>
-																		<div class="progress-group">
-																			<b>3,000</b>
-																			<span class="float-right">45%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-warning" style="width: 45%"></div>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">5,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
+																			<div class="map-bar map-color-yellow-active" style="width: 55%"><span>3,000</span></div>
+																			<div class="map-bar map-color-yellow-inactive" style="width: 45%"><span>2,200</span></div>
 																		</div>
 																	</td>
 																</tr>
 																<tr>
 																	<td>
-																		<div class="progress-group">
-																			<b>5,000</b>
-																			<span class="float-right">25%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-success" style="width: 25%"></div>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">10,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																		</div>
-																	</td>
-
-																</tr>
-																<tr>
-																	<td>
-																		<div class="progress-group">
-																			<b>15,000</b>
-																			<span class="float-right">95%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-primary" style="width: 90%"></div>
-																			</div>
-																		</div>
-																	</td>
-
-																</tr>
-															</tbody>
-														</table>
-													</div>
-													<div class="col-sm-12 col-md-4">
-														<table class="table-map">
-															<thead>
-																<tr>
-																	<th colspan="3">Members</th>
-																</tr>
-															</thead>
-															<tbody>
-																<tr>
-																	<td colspan="3">
-																		<div class="progress-group">
-																			<b>10,000</b>
-																			<span class="float-right">80%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-danger" style="width: 80%"></div>
-																			</div>
+																			<div class="map-bar map-color-green-active" style="width: 38%"><span>3,800</span></div>
+																			<div class="map-bar map-color-green-inactive" style="width: 62%"><span>7,200</span></div>
 																		</div>
 																	</td>
 																</tr>
 																<tr>
 																	<td>
-																		<div class="progress-group">
-																			<b>3,000</b>
-																			<span class="float-right">45%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-warning" style="width: 45%"></div>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">3,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
+																			<div class="map-bar map-color-blue-active" style="width: 68%"><span>2,000</span></div>
+																			<div class="map-bar map-color-blue-inactive" style="width: 32%"><span>1,200</span></div>
 																		</div>
 																	</td>
-																</tr>
-																<tr>
-																	<td>
-																		<div class="progress-group">
-																			<b>5,000</b>
-																			<span class="float-right">25%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-success" style="width: 25%"></div>
-																			</div>
-																		</div>
-																	</td>
-
-																</tr>
-																<tr>
-																	<td>
-																		<div class="progress-group">
-																			<b>15,000</b>
-																			<span class="float-right">95%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-primary" style="width: 70%"></div>
-																			</div>
-																		</div>
-																	</td>
-
-																</tr>
-															</tbody>
-														</table>
-													</div>
-													<div class="col-sm-12 col-md-4">
-														<table class="table-map">
-															<thead>
-																<tr>
-																	<th colspan="3">Non-members</th>
-																</tr>
-															</thead>
-															<tbody>
-																<tr>
-																	<td colspan="3">
-																		<div class="progress-group">
-																			<b>10,000</b>
-																			<span class="float-right">80%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-danger" style="width: 80%"></div>
-																			</div>
-																		</div>
-																	</td>
-																</tr>
-																<tr>
-																	<td>
-																		<div class="progress-group">
-																			<b>3,000</b>
-																			<span class="float-right">45%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-warning" style="width: 45%"></div>
-																			</div>
-																		</div>
-																	</td>
-																</tr>
-																<tr>
-																	<td>
-																		<div class="progress-group">
-																			<b>5,000</b>
-																			<span class="float-right">25%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-success" style="width: 25%"></div>
-																			</div>
-																		</div>
-																	</td>
-
-																</tr>
-																<tr>
-																	<td>
-																		<div class="progress-group">
-																			<b>15,000</b>
-																			<span class="float-right">95%</span>
-																			<div class="progress progress-sm">
-																				<div class="progress-bar bg-primary" style="width: 30%"></div>
-																			</div>
-																		</div>
-																	</td>
-
 																</tr>
 															</tbody>
 														</table>
 													</div>
 												</div>
 												</div>
+											</div>
 
-											</div>										
+											<div class="map-purok">
+												<div class="row row-line">
+													<div class="col-sm-12 no-pad">
+														<p class="purok-title"><i class="fas fa-home"></i> 
+															<span class="place-title">Davao</span></p>
+														<p class="text-short text-secondary">Total Registered: 30,000</p>
+													
+													<div class="col-sm-12 col-md-12">
+														<table class="table-map">
+															<tbody>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">8,300 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-red-active" style="width: 65%"><span>5,200</span></div>
+																			<div class="map-bar map-color-red-inactive" style="width: 35%"><span>3,100</span></div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">5,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-yellow-active" style="width: 55%"><span>3,000</span></div>
+																			<div class="map-bar map-color-yellow-inactive" style="width: 45%"><span>2,200</span></div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">10,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-green-active" style="width: 38%"><span>3,800</span></div>
+																			<div class="map-bar map-color-green-inactive" style="width: 62%"><span>7,200</span></div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">3,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-blue-active" style="width: 68%"><span>2,000</span></div>
+																			<div class="map-bar map-color-blue-inactive" style="width: 32%"><span>1,200</span></div>
+																		</div>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</div>
+												</div>
+												</div>
+											</div>	
+
+											<div class="map-purok">
+												<div class="row row-line">
+													<div class="col-sm-12 no-pad">
+														<p class="purok-title"><i class="fas fa-home"></i> 
+															<span class="place-title">Davao</span></p>
+														<p class="text-short text-secondary">Total Registered: 30,000</p>
+													
+													<div class="col-sm-12 col-md-12">
+														<table class="table-map">
+															<tbody>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">8,300 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-red-active" style="width: 65%"><span>5,200</span></div>
+																			<div class="map-bar map-color-red-inactive" style="width: 35%"><span>3,100</span></div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">5,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-yellow-active" style="width: 55%"><span>3,000</span></div>
+																			<div class="map-bar map-color-yellow-inactive" style="width: 45%"><span>2,200</span></div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">10,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-green-active" style="width: 38%"><span>3,800</span></div>
+																			<div class="map-bar map-color-green-inactive" style="width: 62%"><span>7,200</span></div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">3,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-blue-active" style="width: 68%"><span>2,000</span></div>
+																			<div class="map-bar map-color-blue-inactive" style="width: 32%"><span>1,200</span></div>
+																		</div>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</div>
+												</div>
+												</div>
+											</div>
+
+											<div class="map-purok">
+												<div class="row row-line">
+													<div class="col-sm-12 no-pad">
+														<p class="purok-title"><i class="fas fa-home"></i> 
+															<span class="place-title">Davao</span></p>
+														<p class="text-short text-secondary">Total Registered: 30,000</p>
+													
+													<div class="col-sm-12 col-md-12">
+														<table class="table-map">
+															<tbody>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">8,300 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-red-active" style="width: 65%"><span>5,200</span></div>
+																			<div class="map-bar map-color-red-inactive" style="width: 35%"><span>3,100</span></div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">5,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-yellow-active" style="width: 55%"><span>3,000</span></div>
+																			<div class="map-bar map-color-yellow-inactive" style="width: 45%"><span>2,200</span></div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">10,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-green-active" style="width: 38%"><span>3,800</span></div>
+																			<div class="map-bar map-color-green-inactive" style="width: 62%"><span>7,200</span></div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">3,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-blue-active" style="width: 68%"><span>2,000</span></div>
+																			<div class="map-bar map-color-blue-inactive" style="width: 32%"><span>1,200</span></div>
+																		</div>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</div>
+												</div>
+												</div>
+											</div>	
+
+
+
 										</div>
 
 										<ul id="purok-list">

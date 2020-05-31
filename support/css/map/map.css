@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 #map-root {
 	background-color: #AADAFF;
 	width: 100%;
@@ -15,12 +19,13 @@
 #map-sidebar {
 	float: right;
 	background-color: #F5F5F5;
-	width: 46%;
+	width: 41%;
 	height: 100%;
+	overflow: scroll;
 }
 
 #map-content {
-	width: 54%;
+	width: 59%;
 	height: 100%;
 	float: left;
 	overflow: hidden;
@@ -116,16 +121,8 @@ ul li {
 
 }
 
-.purok-title {
-    display: inherit;
-    background: #f5f5f5;
-    padding: 10px 8px;
-    font-weight: 600;
-}
-
 .row-line {
 	border-bottom: 1px solid #f5f5f5;
-	padding-bottom: 2rem;
 }
 
 .no-pad {
@@ -139,4 +136,124 @@ ul li {
 .map-badge {
 	padding: 5x;
 	border-radius: .10rem;
+}
+
+.purok-title {
+    display: inherit;
+    padding: 0px 8px;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 2px;
+    margin-top: 5px;
+}
+
+.text-short {
+	padding: 0 8px;
+	font-size: 12px;
+}
+
+.table-total td{
+	padding: 10px 0;
+}
+
+.map-progress {
+	position: relative;
+	width: 100%;
+	background-color: #E9ECEF;
+	margin-bottom: 15px;
+}
+
+.map-bar {
+	width: 1%;
+	height: 24px;
+	padding-left: 5px;
+	color: #f5f5f5;
+}
+
+.map-bar span {
+	display: inline-block;
+}
+
+.map-color-red-active {
+	background-color: #d32e30;
+}
+
+.map-color-red-inactive {
+	background-color: #e57373;
+}
+
+.map-color-yellow-active {
+	background-color: #FFC107;
+}
+
+.map-color-yellow-inactive {
+	background-color: #FFD54F;
+}
+
+.map-color-green-active {
+	background-color: #4CAF50;
+}
+
+.map-color-green-inactive {
+	background-color: #81C784;
+}
+
+.map-color-blue-active {
+	background-color: #2096F3;
+}
+
+.map-color-blue-inactive {
+	background-color: #64B5F6;
+}
+
+.map-bar-absolute-pos {
+	width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.map-bar-total {
+	float: right;
+	padding: 12px;
+}
+
+.total-icon {
+	margin-left: 8px;
+}
+
+.card-header-custom {
+	padding-left: 10px;
+}
+
+.place-title {
+    position: relative;
+    top: 3px;
+    margin-left: 5px;
+}
+
+.place-title-2 {
+    position: relative;
+    top: 3px;
+}
+
+.legend {
+	margin-right: 16px;
+}
+
+.legend span {
+	font-weight: 400;
+}
+
+.capital-icon {
+	font-size: 14px;
+}
+
+.purok-icon {
+	position: relative;
+    top: 2PX;
+    font-size: : 17px;
+}
+
+.non-member-icon {
+	color: lightgrey;
 }
