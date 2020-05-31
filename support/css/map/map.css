@@ -257,3 +257,9 @@ ul li {
 .non-member-icon {
 	color: lightgrey;
 }
+
+.bar-right {
+	float: right;
+	margin-right: 5px;
+	color: #444444;
+}

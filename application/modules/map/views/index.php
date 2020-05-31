@@ -139,6 +139,7 @@
 													<span class="legend"><i class="fas fa-square purok-icon non-member-icon"></i> <span class="place-title-2">Non-member</span></span> 
 								
 											</div> -->
+											<!-- add toggle -->
 											<div class="card-body">
 												<div class="container-fluid">
 
@@ -159,8 +160,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">8,300 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-red-active" style="width: 65%"><span>5,200</span></div>
-																			<div class="map-bar map-color-red-inactive" style="width: 35%"><span>3,100</span></div>
+																			<div class="map-bar map-color-red-active" style="width: 65%">
+																				<span>5,200</span>
+																				<span class="bar-right">65%</span>
+																			</div>
+																			<div class="map-bar map-color-red-inactive" style="width: 35%">
+																				<span>3,100</span>
+																				<span class="bar-right">35%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -170,8 +177,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">5,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-yellow-active" style="width: 55%"><span>3,000</span></div>
-																			<div class="map-bar map-color-yellow-inactive" style="width: 45%"><span>2,200</span></div>
+																			<div class="map-bar map-color-yellow-active" style="width: 55%">
+																				<span>3,000</span>
+																				<span class="bar-right">55%</span>
+																			</div>
+																			<div class="map-bar map-color-yellow-inactive" style="width: 45%">
+																				<span>2,200</span>
+																				<span class="bar-right">45%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -181,8 +194,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">10,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-green-active" style="width: 38%"><span>3,800</span></div>
-																			<div class="map-bar map-color-green-inactive" style="width: 62%"><span>7,200</span></div>
+																			<div class="map-bar map-color-green-active" style="width: 38%">
+																				<span>3,800</span>
+																				<span class="bar-right">38%</span>
+																			</div>
+																			<div class="map-bar map-color-green-inactive" style="width: 62%">
+																				<span>7,200</span>
+																				<span class="bar-right">62%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -192,8 +211,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">3,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-blue-active" style="width: 68%"><span>2,000</span></div>
-																			<div class="map-bar map-color-blue-inactive" style="width: 32%"><span>1,200</span></div>
+																			<div class="map-bar map-color-blue-active" style="width: 68%">
+																				<span>2,000</span>
+																				<span class="bar-right">68%</span>
+																			</div>
+																			<div class="map-bar map-color-blue-inactive" style="width: 32%">
+																				<span>1,200</span>
+																				<span class="bar-right">32%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -208,7 +233,8 @@
 												<div class="row row-line">
 													<div class="col-sm-12 no-pad">
 														<p class="purok-title"><i class="fas fa-home"></i> 
-															<span class="place-title">Davao</span></p>
+															<span class="place-title">Curvada</span>
+														</p>
 														<p class="text-short text-secondary">Total Registered: 30,000</p>
 													
 													<div class="col-sm-12 col-md-12">
@@ -220,8 +246,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">8,300 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-red-active" style="width: 65%"><span>5,200</span></div>
-																			<div class="map-bar map-color-red-inactive" style="width: 35%"><span>3,100</span></div>
+																			<div class="map-bar map-color-red-active" style="width: 65%">
+																				<span>5,200</span>
+																				<span class="bar-right">65%</span>
+																			</div>
+																			<div class="map-bar map-color-red-inactive" style="width: 35%">
+																				<span>3,100</span>
+																				<span class="bar-right">35%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -231,8 +263,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">5,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-yellow-active" style="width: 55%"><span>3,000</span></div>
-																			<div class="map-bar map-color-yellow-inactive" style="width: 45%"><span>2,200</span></div>
+																			<div class="map-bar map-color-yellow-active" style="width: 55%">
+																				<span>3,000</span>
+																				<span class="bar-right">55%</span>
+																			</div>
+																			<div class="map-bar map-color-yellow-inactive" style="width: 45%">
+																				<span>2,200</span>
+																				<span class="bar-right">45%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -242,8 +280,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">10,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-green-active" style="width: 38%"><span>3,800</span></div>
-																			<div class="map-bar map-color-green-inactive" style="width: 62%"><span>7,200</span></div>
+																			<div class="map-bar map-color-green-active" style="width: 38%">
+																				<span>3,800</span>
+																				<span class="bar-right">38%</span>
+																			</div>
+																			<div class="map-bar map-color-green-inactive" style="width: 62%">
+																				<span>7,200</span>
+																				<span class="bar-right">62%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -253,8 +297,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">3,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-blue-active" style="width: 68%"><span>2,000</span></div>
-																			<div class="map-bar map-color-blue-inactive" style="width: 32%"><span>1,200</span></div>
+																			<div class="map-bar map-color-blue-active" style="width: 68%">
+																				<span>2,000</span>
+																				<span class="bar-right">68%</span>
+																			</div>
+																			<div class="map-bar map-color-blue-inactive" style="width: 32%">
+																				<span>1,200</span>
+																				<span class="bar-right">32%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -269,7 +319,8 @@
 												<div class="row row-line">
 													<div class="col-sm-12 no-pad">
 														<p class="purok-title"><i class="fas fa-home"></i> 
-															<span class="place-title">Davao</span></p>
+															<span class="place-title">Curvada</span>
+														</p>
 														<p class="text-short text-secondary">Total Registered: 30,000</p>
 													
 													<div class="col-sm-12 col-md-12">
@@ -281,8 +332,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">8,300 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-red-active" style="width: 65%"><span>5,200</span></div>
-																			<div class="map-bar map-color-red-inactive" style="width: 35%"><span>3,100</span></div>
+																			<div class="map-bar map-color-red-active" style="width: 65%">
+																				<span>5,200</span>
+																				<span class="bar-right">65%</span>
+																			</div>
+																			<div class="map-bar map-color-red-inactive" style="width: 35%">
+																				<span>3,100</span>
+																				<span class="bar-right">35%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -292,8 +349,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">5,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-yellow-active" style="width: 55%"><span>3,000</span></div>
-																			<div class="map-bar map-color-yellow-inactive" style="width: 45%"><span>2,200</span></div>
+																			<div class="map-bar map-color-yellow-active" style="width: 55%">
+																				<span>3,000</span>
+																				<span class="bar-right">55%</span>
+																			</div>
+																			<div class="map-bar map-color-yellow-inactive" style="width: 45%">
+																				<span>2,200</span>
+																				<span class="bar-right">45%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -303,8 +366,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">10,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-green-active" style="width: 38%"><span>3,800</span></div>
-																			<div class="map-bar map-color-green-inactive" style="width: 62%"><span>7,200</span></div>
+																			<div class="map-bar map-color-green-active" style="width: 38%">
+																				<span>3,800</span>
+																				<span class="bar-right">38%</span>
+																			</div>
+																			<div class="map-bar map-color-green-inactive" style="width: 62%">
+																				<span>7,200</span>
+																				<span class="bar-right">62%</span>
+																			</div>
 																		</div>
 																	</td>
 																</tr>
@@ -314,69 +383,14 @@
 																			<div class="map-bar-absolute-pos">
 																				<span class="map-bar-total">3,200 <i class="fas fa-user total-icon"></i></span>
 																			</div>
-																			<div class="map-bar map-color-blue-active" style="width: 68%"><span>2,000</span></div>
-																			<div class="map-bar map-color-blue-inactive" style="width: 32%"><span>1,200</span></div>
-																		</div>
-																	</td>
-																</tr>
-															</tbody>
-														</table>
-													</div>
-												</div>
-												</div>
-											</div>
-
-											<div class="map-purok">
-												<div class="row row-line">
-													<div class="col-sm-12 no-pad">
-														<p class="purok-title"><i class="fas fa-home"></i> 
-															<span class="place-title">Davao</span></p>
-														<p class="text-short text-secondary">Total Registered: 30,000</p>
-													
-													<div class="col-sm-12 col-md-12">
-														<table class="table-map">
-															<tbody>
-																<tr>
-																	<td>
-																		<div class="map-progress">
-																			<div class="map-bar-absolute-pos">
-																				<span class="map-bar-total">8,300 <i class="fas fa-user total-icon"></i></span>
+																			<div class="map-bar map-color-blue-active" style="width: 68%">
+																				<span>2,000</span>
+																				<span class="bar-right">68%</span>
 																			</div>
-																			<div class="map-bar map-color-red-active" style="width: 65%"><span>5,200</span></div>
-																			<div class="map-bar map-color-red-inactive" style="width: 35%"><span>3,100</span></div>
-																		</div>
-																	</td>
-																</tr>
-																<tr>
-																	<td>
-																		<div class="map-progress">
-																			<div class="map-bar-absolute-pos">
-																				<span class="map-bar-total">5,200 <i class="fas fa-user total-icon"></i></span>
+																			<div class="map-bar map-color-blue-inactive" style="width: 32%">
+																				<span>1,200</span>
+																				<span class="bar-right">32%</span>
 																			</div>
-																			<div class="map-bar map-color-yellow-active" style="width: 55%"><span>3,000</span></div>
-																			<div class="map-bar map-color-yellow-inactive" style="width: 45%"><span>2,200</span></div>
-																		</div>
-																	</td>
-																</tr>
-																<tr>
-																	<td>
-																		<div class="map-progress">
-																			<div class="map-bar-absolute-pos">
-																				<span class="map-bar-total">10,200 <i class="fas fa-user total-icon"></i></span>
-																			</div>
-																			<div class="map-bar map-color-green-active" style="width: 38%"><span>3,800</span></div>
-																			<div class="map-bar map-color-green-inactive" style="width: 62%"><span>7,200</span></div>
-																		</div>
-																	</td>
-																</tr>
-																<tr>
-																	<td>
-																		<div class="map-progress">
-																			<div class="map-bar-absolute-pos">
-																				<span class="map-bar-total">3,200 <i class="fas fa-user total-icon"></i></span>
-																			</div>
-																			<div class="map-bar map-color-blue-active" style="width: 68%"><span>2,000</span></div>
-																			<div class="map-bar map-color-blue-inactive" style="width: 32%"><span>1,200</span></div>
 																		</div>
 																	</td>
 																</tr>
@@ -386,6 +400,92 @@
 												</div>
 												</div>
 											</div>	
+
+											<div class="map-purok">
+												<div class="row row-line">
+													<div class="col-sm-12 no-pad">
+														<p class="purok-title"><i class="fas fa-home"></i> 
+															<span class="place-title">Curvada</span>
+														</p>
+														<p class="text-short text-secondary">Total Registered: 30,000</p>
+													
+													<div class="col-sm-12 col-md-12">
+														<table class="table-map">
+															<tbody>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">8,300 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-red-active" style="width: 65%">
+																				<span>5,200</span>
+																				<span class="bar-right">65%</span>
+																			</div>
+																			<div class="map-bar map-color-red-inactive" style="width: 35%">
+																				<span>3,100</span>
+																				<span class="bar-right">35%</span>
+																			</div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">5,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-yellow-active" style="width: 55%">
+																				<span>3,000</span>
+																				<span class="bar-right">55%</span>
+																			</div>
+																			<div class="map-bar map-color-yellow-inactive" style="width: 45%">
+																				<span>2,200</span>
+																				<span class="bar-right">45%</span>
+																			</div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">10,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-green-active" style="width: 38%">
+																				<span>3,800</span>
+																				<span class="bar-right">38%</span>
+																			</div>
+																			<div class="map-bar map-color-green-inactive" style="width: 62%">
+																				<span>7,200</span>
+																				<span class="bar-right">62%</span>
+																			</div>
+																		</div>
+																	</td>
+																</tr>
+																<tr>
+																	<td>
+																		<div class="map-progress">
+																			<div class="map-bar-absolute-pos">
+																				<span class="map-bar-total">3,200 <i class="fas fa-user total-icon"></i></span>
+																			</div>
+																			<div class="map-bar map-color-blue-active" style="width: 68%">
+																				<span>2,000</span>
+																				<span class="bar-right">68%</span>
+																			</div>
+																			<div class="map-bar map-color-blue-inactive" style="width: 32%">
+																				<span>1,200</span>
+																				<span class="bar-right">32%</span>
+																			</div>
+																		</div>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</div>
+												</div>
+												</div>
+											</div>		
 
 
 
