@@ -172,10 +172,11 @@ ul li {
 
 .map-bar span {
 	display: inline-block;
+	color: #444444;
 }
 
 .map-color-red-active {
-	background-color: #d32e30;
+	background-color: #f44236;
 }
 
 .map-color-red-inactive {
@@ -261,5 +262,5 @@ ul li {
 .bar-right {
 	float: right;
 	margin-right: 5px;
-	color: #444444;
+	color: #ffffff !important;
 }
