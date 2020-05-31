@@ -146,7 +146,7 @@
 												<div class="map-purok">
 												<div class="row row-line">
 													<div class="col-sm-12 no-pad">
-														<p class="purok-title"><i class="fas fa-star"></i> 
+														<p class="purok-title"><i class="fas fa-star icon-align"></i> 
 															<span class="place-title">Kapatagan</span>
 														</p>
 														<p class="text-short text-secondary">Total Registered: 30,000</p>
@@ -232,7 +232,7 @@
 											<div class="map-purok">
 												<div class="row row-line">
 													<div class="col-sm-12 no-pad">
-														<p class="purok-title"><i class="fas fa-home"></i> 
+														<p class="purok-title"><i class="fas fa-home icon-align"></i> 
 															<span class="place-title">Curvada</span>
 														</p>
 														<p class="text-short text-secondary">Total Registered: 30,000</p>
@@ -318,7 +318,7 @@
 											<div class="map-purok">
 												<div class="row row-line">
 													<div class="col-sm-12 no-pad">
-														<p class="purok-title"><i class="fas fa-home"></i> 
+														<p class="purok-title"><i class="fas fa-home icon-align"></i> 
 															<span class="place-title">Curvada</span>
 														</p>
 														<p class="text-short text-secondary">Total Registered: 30,000</p>
@@ -404,7 +404,7 @@
 											<div class="map-purok">
 												<div class="row row-line">
 													<div class="col-sm-12 no-pad">
-														<p class="purok-title"><i class="fas fa-home"></i> 
+														<p class="purok-title"><i class="fas fa-home icon-align"></i> 
 															<span class="place-title">Curvada</span>
 														</p>
 														<p class="text-short text-secondary">Total Registered: 30,000</p>
