@@ -145,7 +145,7 @@
 												<div class="map-purok">
 												<div class="row row-line">
 													<div class="col-sm-12 no-pad">
-														<p class="purok-title"><i class="fas fa-synagogue"></i> 
+														<p class="purok-title"><i class="fas fa-star"></i> 
 															<span class="place-title">Kapatagan</span>
 														</p>
 														<p class="text-short text-secondary">Total Registered: 30,000</p>
